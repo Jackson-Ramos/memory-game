@@ -52,7 +52,6 @@ h2 {
 }
 
 .reset:focus {
-
     color: #fff;
     background: linear-gradient(750deg, #141e30, #35577d);
     border: 1px solid #fff;
@@ -77,7 +76,6 @@ h2 {
     justify-content: center;
     background-color: #fff;
     border-radius: 5px;
-
     font-size: 3em;
     transform: rotateY(180deg);
     transition: 0.25s;

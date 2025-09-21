@@ -101,3 +101,20 @@ h2 {
 .boxMatch::after {
     transform: rotateY(180deg);
 }
+
+.popup {
+    text-align: center;
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    position: fixed;
+    height: 450px;
+    width: 500px;
+    background-color: #fff;
+    padding: 150px 55px;
+    border-radius: 10px;
+}
+
+.popup h2 {
+    color: #0f2027;
+}
